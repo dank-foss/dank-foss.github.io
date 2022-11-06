@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on Gigafoss</title>
+    <link>https://dank-foss.github.io/courses/</link>
+    <description>Recent content in Courses on Gigafoss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Nov 2022 22:10:21 +0530</lastBuildDate><atom:link href="https://dank-foss.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DSA</title>
+      <link>https://dank-foss.github.io/courses/dsa/</link>
+      <pubDate>Sun, 06 Nov 2022 22:10:21 +0530</pubDate>
+      
+      <guid>https://dank-foss.github.io/courses/dsa/</guid>
+      <description>Master Data Structures and Algorithms With the gigaDSA Program Register Here</description>
+    </item>
+    
+  </channel>
+</rss>
